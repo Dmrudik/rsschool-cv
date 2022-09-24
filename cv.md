@@ -45,7 +45,7 @@ it("test", () => {
 + Russian - Native   
 + Polish - Intermediate
 + Englich - Basic (in process)
-+ German -Basic
++ German - Basic
 ***
 
 ## *Contacts:*
@@ -54,3 +54,4 @@ it("test", () => {
 +   dmrudikg@gmail.com
 +   [Github](https://github.com/Dmrudik/Dmrudik.github.io)
 +   [My page](https://dmrudik.github.io/)
++   [Linkedin]
