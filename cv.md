@@ -1,9 +1,8 @@
 # *Dima Rodionov*
-***
+*****
 
 ## *Junior Frontend Developer*
-***
-***
+*****
 
 ## *About Me*
 ### I'm 35 years old. But this doesn't mean that I am old:) I'm young and think that Frontend is waiting for me.
