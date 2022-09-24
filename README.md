@@ -1,1 +1,2 @@
-# rsschool-cv
+https://dmrudik.github.io/rsschool-cv/cv
+
