@@ -16,13 +16,15 @@
 ***
 
 ## *Skills:*
-    HTML
-    CSS/SASS
-    MS Sql
-    VBA (Basic)
-    .NET C# (Basic)
-    JavaScript (Basic)
-    Git (Basic)
++   HTML
++   CSS/SASS/SCSS
++   MS Sql
++   VBA (Basic)
++   .NET C# (Basic)
++   JavaScript (Basic)
++   Git (Basic)
++   Photoshop
++   Figma
 ***
 
 ## *Code Example*
@@ -39,10 +41,16 @@ it("test", () => {
 ```
 ***
 
+## *Languages:*
++ Russian - Native   
++ Polish - Intermediate
++ Englich - Basic (in process)
++ German -Basic
+***
+***
+
 ## *Contacts:*
 +   Gdańsk
 +   +(48)791706717
 +   dmrudikg@gmail.com
 +   [Github](https://github.com/Dmrudik/Dmrudik.github.io)
-***
-***
