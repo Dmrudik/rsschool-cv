@@ -3,7 +3,7 @@
 ## *Junior Frontend Developer*
 
 ## *About Me*
-### I'm 35 years old. But this doesn't mean that I am old:) I'm young and think that Frontend is waiting for me.
+### I'm 35 years old. But this doesn't mean that I am old:) I'm young and think that Frontend is waiting for me!)) I am a programmer with skills, who had been sitting for a long time in comfort but was dissatisfied with the lack of development. At the moment soaking up tons of material on web development from various sources with great eagerness, thirsty for practice and further self- development.
 
 ***
 
@@ -13,6 +13,8 @@
     - [Web-developer 2022 (HTML, CSS, SCSS, SASS, Bootstrap, Javascript)](https://www.udemy.com/course/webdeveloper/learn/lecture/14232186?start=0#overview)
     - [JavaScript, Reac (**in process**)](https://www.udemy.com/course/javascript_full/learn/lecture/18916560?start=0#overview)
     - web-developer (HTML, CSS, Javascript): Belhard
+
+***
 
 ## *Skills:*
 +   HTML
@@ -24,6 +26,8 @@
 +   Git (Basic)
 +   Photoshop
 +   Figma
+
+***
 
 ## *Code Example*
 ```
@@ -37,12 +41,15 @@ it("test", () => {
     });
 });
 ```
+***
 
 ## *Languages:*
 + Russian - Native   
 + Polish - Intermediate
 + Englich - Basic (in process)
 + German - Basic
+
+***
 
 ## *Contacts:*
 +   Gdańsk
